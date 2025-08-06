@@ -1,5 +1,8 @@
 down load git 
 
+user Manual
+----------
+
 user& gmail 
 git config --global user.name "nav"
 git config --global user.gmail "aru@gmail.com" 
@@ -20,5 +23,12 @@ to push the data
 
     git push origin main
 
-to remove file git rm --cached dfiel_name 
+to remove file 
+    git rm --cached dfiel_name 
+    git push origin main 
+
+git init to incialize the data
+
+
+
 
