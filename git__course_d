@@ -5,3 +5,15 @@ git config --global user.name "nav"
 git config --global user.gmail "aru@gmail.com" 
         created for acessing 
 
+---
+create new repository 
+use git bash terminal for create using readme file 
+    take ssh command<link> copy it 
+    for ssh creation[ssh-keygen -o]
+    go back and copy ssh.p some thing copy key and paste it inside the github for acessing it
+
+
+==
+to push the data
+    git push origin main
+    
