@@ -15,5 +15,10 @@ use git bash terminal for create using readme file
 
 ==
 to push the data
+    git add file_name 
+    git commit -m "message" 
+
     git push origin main
-    
+
+to remove file git rm --cached dfiel_name 
+
