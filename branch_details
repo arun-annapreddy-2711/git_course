@@ -1,0 +1,17 @@
+creation
+git checkout -b brancn name
+or 
+git switch -c branch name 
+
+--
+git push origin branch name 
+
+to switch use git switch b_n 
+
+--
+to del 
+    git branch -d n_m 
+to merge
+---open where to data send branch 
+    use>git merge b_n 
+    
